@@ -24,3 +24,10 @@ Pentingnya akurasi prediksi: Keakuratan prediksi CLV menjadi kunci utama keberha
 
 ## Goals
 Pemodelan regresi dapat digunakkan untuk mengetahui prediksi nilai customer lifetime value berdasarkan variabel variabel customer asuransi. Machine learning dapat membantu membuat model tersebut. Pada capstone project modul 3 ini, model untuk mengestimasi berapa Customer Lifetime Value pada customer perusahaan asuransi akan dibuat.
+
+## Analytic Approach
+1. Melakukan Explantory Data Analysis (EDA) pada dataset.
+2. Melakukan Feature Engineering pada feature jika dibutuhkan.
+3. Melakukan Preprocessing pada dataset.
+4. Melakukan Benchmarking pada beberapa model regressi untuk memilih model yang paling tepat untuk dataset.
+5. Melakukan Hyperparameter Tuning pada model terpilih untuk mendapatkan hasil error yang lebih rendah.
